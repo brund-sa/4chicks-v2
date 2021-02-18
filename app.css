@@ -342,7 +342,7 @@ animation: chickAppear4 0.3s forwards 2.1s;
     }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
     .chickenWrapper img {
         z-index: 999;
     }
