@@ -8,7 +8,7 @@ body, html {
     box-sizing: border-box;
     width: 100vw;
     height: 100vh;
-    background: #FFD931;
+    background: url(./images/pattern_.png), #FFD931;
     overflow: hidden;
 }
 
