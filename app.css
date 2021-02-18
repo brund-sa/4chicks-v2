@@ -382,6 +382,6 @@ cursor: pointer;
 
     .strip4 {
         top: 64%;
-        z-index: 99999;
+        /* z-index: 99999; */
     }
 }
